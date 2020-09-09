@@ -1,4 +1,8 @@
-Thanks for downloading this template!
+Front end hosted on S3 bucket, 
+Cloud Architecture here: 
+
+![alt text](https://github.com/townerhale/cloud_resume_challenge_backend/blob/master/architecture-drawing.png)
+
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
