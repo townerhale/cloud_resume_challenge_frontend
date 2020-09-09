@@ -1,4 +1,4 @@
-Front end hosted on S3 bucket, 
+Front end hosted on S3 bucket. 
 
 Cloud Architecture for project: 
 
